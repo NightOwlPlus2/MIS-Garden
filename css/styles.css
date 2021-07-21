@@ -571,6 +571,14 @@ progress {
   height: auto;
 }
 
+.img-logo{
+  width: 20%;
+}
+
+.img-syslogo{
+  width: 50%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
